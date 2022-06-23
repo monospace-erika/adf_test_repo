@@ -1,0 +1,9 @@
+{
+	"name": "eriADF-w-git",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6459ac45-0e3e-4d53-badf-04e4608ef50c",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
